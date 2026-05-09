@@ -1,51 +1,171 @@
-<h1 align="center">Hi 👋, I'm Raja Irfan Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfan-hue&label=Profile%20views&color=0e75b6&style=flat" alt="irfan-hue" /> </p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajairfanahmed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 💫 About Me:
-- 🔭 I’m currently working on **Web Development**
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap, Tailwind**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajairfanahmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja-irfan-ahmed-203682217" height="30" width="40" /></a>
-<a href="https://www.behance.net/raja_irfan_ahmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="raja_irfan_ahmed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@thepassionator" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thepassionator" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" /></a>  
-</div>
-<br />
-
-<h3 align="left">Stars:</h3>
 <div align="center">
- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajairfanahmed&layout=compact&theme=highcontrast" alt=rajairfanahmed />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rajairfanahmed&show_icons=true&locale=en&theme=highcontrast" alt="rajairfanahmed" /></p>
+<h1>Raja Irfan Ahmed</h1>
+<h4>Frontend Developer &nbsp;·&nbsp; UI Craftsman &nbsp;·&nbsp; Cloud Learner</h4>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajairfanahmed&theme=highcontrast" alt="rajairfanahmed" /></p>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<a href="https://linkedin.com/in/rajairfanahmed" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:rajairfana551@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=rajairfanahmed&style=for-the-badge&color=0e75b6" />
+
 </div>
+
+---
+
+## Who I Am
+
+I build frontend interfaces that are clean, fast, and actually enjoyable to use. Over the past two years I've shipped real projects — a gym platform, a clothing brand, a fitness site, a news app — each one pushing me to write tighter code and think more carefully about how things feel from the user's side.
+
+I care about getting things right, not just getting them done. That's shaped how I approach every project: proper structure, readable code, and layouts that hold up on any screen.
+
+Outside of building interfaces, I spend time on cloud infrastructure and AWS concepts — not because it's trendy, but because understanding systems end-to-end makes me a better engineer.
+
+---
+
+## Tech Stack
+
 <div align="center">
-<a href="https://github.com/rajairfanahmed">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajairfanahmed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajairfanahmed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajairfanahmed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajairfanahmed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajairfanahmed&theme=2077" height="180em" />
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+
+**Styling & Build Tools**
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,webpack,vite&theme=dark" />
+
+**Database & Version Control**
+
+<img src="https://skillicons.dev/icons?i=mongodb,git,github&theme=dark" />
+
+</div>
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏋️ FitZone Pro
+**[gymwebsite-beige.vercel.app](https://gymwebsite-beige.vercel.app)**
+
+A gym website with workout plans, trainer profiles, and membership packages. Built with Tailwind CSS. Focused on layout consistency, spacing, and solid mobile behaviour.
+
+`Tailwind CSS` `HTML` `Responsive Design`
+
+</td>
+<td width="50%">
+
+### 💪 Fitness Training Website
+**[fitnesstraining.vercel.app](https://fitnesstraining.vercel.app)**
+
+Fitness platform covering training programs and nutrition guidance. The goal was a clean, no-friction experience — visitors find what they need fast without digging through noise.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👔 Odor Men Clothing
+**[rajairfanahmed.github.io/odor-men-clothing](https://rajairfanahmed.github.io/odor-men-clothing)**
+
+Clothing brand website with product browsing and a minimal shopping layout. Spent extra time on visual identity so the brand actually feels cohesive rather than templated.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+### 📰 Newspaper Web App
+**[newspapermurex.vercel.app](https://newspapermurex.vercel.app)**
+
+News web app that fetches and organises articles in a clean, readable layout. Category browsing is fast and the interface stays out of the way.
+
+`JavaScript` `API Integration` `CSS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajairfanahmed&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=GitHub+Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajairfanahmed&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajairfanahmed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajairfanahmed&theme=tokyonight" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajairfanahmed&custom_title=Contribution+Graph&hide_border=true&theme=tokyo-night&area=true" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rajairfanahmed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## Certifications
+
+<div align="center">
+
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/70LZ0ZEPPK0Q" target="_blank">
+  <img src="https://img.shields.io/badge/Meta_Front--End_Developer_Professional_Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/70LZ0ZEPPK0Q" target="_blank">
+  <img src="https://img.shields.io/badge/Issued_by-Meta_×_Coursera-1A1A1A?style=for-the-badge&logo=meta&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> **Front-End Developer Professional Certificate** — Meta (Coursera)  
+> Covers HTML/CSS, JavaScript, React, version control, UX design principles, and portfolio development.
+
+</div>
+
+---
+
+## Currently
+
+- Building projects with **React, Next.js, and TypeScript**
+- Learning **AWS** and cloud architecture through self-study
+- Strengthening backend skills to move into **full-stack development**
+- Open to **frontend roles, freelance work, and collaborations**
+
+---
+
+<div align="center">
+
+**rajairfana551@gmail.com &nbsp;·&nbsp; Rawalpindi, Pakistan**
+
+*Clean interfaces. Solid code. Shipped.*
+
 </div>
