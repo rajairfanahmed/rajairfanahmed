@@ -21,11 +21,11 @@
 
 ## Who I Am
 
-I build frontend interfaces that are clean, fast, and actually enjoyable to use. Over the past two years I've shipped real projects — a gym platform, a clothing brand, a fitness site, a news app — each one pushing me to write tighter code and think more carefully about how things feel from the user's side.
+I build frontend interfaces that are clean, fast, and actually enjoyable to use. In the last two years, I’ve launched real projects: a gym platform, a clothing brand, a fitness site, and a news app. Each one has challenged me to write better code and focus on user experience.
 
-I care about getting things right, not just getting them done. That's shaped how I approach every project: proper structure, readable code, and layouts that hold up on any screen.
+I care about getting things right, not getting them done. I tackle every project with three main goals: a clear structure, readable code, and designs that work on any screen.
 
-Outside of building interfaces, I spend time on cloud infrastructure and AWS concepts — not because it's trendy, but because understanding systems end-to-end makes me a better engineer.
+I work on cloud infrastructure and AWS concepts. I do this not because it’s trendy, but because knowing systems from start to finish makes me a better engineer.
 
 ---
 
