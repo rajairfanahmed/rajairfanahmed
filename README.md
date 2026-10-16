@@ -1,7 +1,3 @@
-<div align="center">
- <img src="./github_design_image.png" alt="GitHub Banner" width="100%" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Raja Irfan Ahmed</h1>
 <h3 align="center">
 Frontend Developer | Full-Stack Learner | Cloud & AI Enthusiast
